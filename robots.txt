@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-88pra7.date-me.pro/sitemap.xml
